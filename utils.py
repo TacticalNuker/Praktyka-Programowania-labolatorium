@@ -2,6 +2,7 @@
 
 """Moduł kalkulatora"""
 
+
 def add(a: int, b: int) -> int:
     """Dodawanie"""
     return a + b
